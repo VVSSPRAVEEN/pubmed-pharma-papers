@@ -1,2 +1,2 @@
-# pubbed-pharma-papers
+# pubmed-pharma-papers
 project assignment from aganitha ai
